@@ -1,3 +1,3 @@
 # Store-Receipts
 
-Learning Python from codecademy [codecademy.com] (https://www.codecademy.com)
+Learning Python from codecademy [codecademy.com] (https://www.codecademy.com/)
