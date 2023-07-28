@@ -1,4 +1,7 @@
-# Create a program that creates store receipts for items purchased by several customers
+# Project Name:  Store-Receipts
+# Discription:   Build a program that will gather purchases made by several customers and print out a receipt.
+#                Project was provided by Codecademy to test knowledge on basic fundamentals of strings, numbers and updating variables.
+# Author:        Jacob Gonzalez (26 July 2023)
 
 # information for sectional couch
 sectional_description = """[  2-Piece Sectional with Chaise.  Polyester upholstery with exposed feet.  
